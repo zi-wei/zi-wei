@@ -15,7 +15,7 @@ Building practical tools with code.
 
 ## About me
 
-关注 AI Agent, 运维自动化与实用软件.
+ AI ，网安, 运维.
 
 ## Featured work
 
