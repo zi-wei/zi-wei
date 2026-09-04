@@ -15,7 +15,7 @@ Building practical tools with code.
 
 ## About me
 
- AI ，网安, 运维.
+ AI（ai造fen领域高手）
 
 ## Featured work
 
