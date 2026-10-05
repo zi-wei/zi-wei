@@ -15,7 +15,7 @@ Building practical tools with code.
 
 ## About me
 
- AI（ai造fen领域高手）
+ AI（ai造fen领域低手）
 
 ## Featured work
 
